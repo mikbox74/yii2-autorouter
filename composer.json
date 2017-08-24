@@ -1,0 +1,19 @@
+{
+    "name": "mikbox74/yii2-autorouter",
+    "description": "This component allows modules to create rules for UrlManager by method",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michail Urakov",
+            "email": "mikbox74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mikbox74\\yii2-autorouter\\": "src"
+        }
+    }
+}
