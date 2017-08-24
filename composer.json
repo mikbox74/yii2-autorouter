@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "mikbox74\\yii2-autorouter\\": "src"
+            "mikbox74\\Autorouter\\": "src"
         }
     }
 }

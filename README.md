@@ -3,7 +3,7 @@ This component allows modules to create rules for UrlManager by method.
 
 Installing:
 
-`composer require "mikbox74/yii2-autorouter:*"`
+`composer require mikbox74/yii2-autorouter`
 
 Step 1: add the component in bootstrap list of your application (main.php, main-local.php)
 like here:
